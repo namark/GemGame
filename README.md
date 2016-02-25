@@ -11,6 +11,6 @@ Alternatively, use __checkinstall__ if available.
 
 ### Usage
 
-Simplye run ```GemGame``` from terminal, click around then close the window.
+Simply run ```GemGame``` from terminal, click around then close the window.
 
 
